@@ -20,5 +20,12 @@
 
     The manufacturing data meets the design specification of the variance of the coils not exceeding 100 pounds per square inch in the totals of all lots combined, witha variance of approximatly 62, as depicted directly below.
 
-![total_summary.png](Resources/total_summary.png)
+![total_summary.PNG](Resources/total_summary.PNG)
+
+   As for meeting the design specifications when analyzing specific lots, one of the lots exceeds 100 pounds per square inch.  As depicted below, lot 3 is way over the design specification, when looking at the variance column.
+    
+   ![lot_summary.PNG](Resources/lot_summary.PNG)
+   
+   
+
     
