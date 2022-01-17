@@ -29,6 +29,31 @@
    
 ## T-Tests on Suspension Coils
 
+  Analysis shows that testing is nearly 100% consistent across all lots when analyzed together, witha p-value of .97 and 100% consistent when numbers were analyzed for lot 1 specifically.  Lot 1 holds a p-value of 1.  However, lots 2 and 3 are not consistent.  As depicted below, lot 2 holds a p-value of .61 and lot 3 is .04.
+  
+  ![lot2.PNG](Resources/lot2.PNG)
+  
+  ![lot3.PNG](Resources/lot3.PNG)
+  
+  
+ ## Study Design: MechaCar vs Competition
+ 
+  - What metric or metrics are you going to test?
+  
+    Some metrics to test would be miles per gallon (both city and highway), maintenance costs, and overall cost of the vehicle.
+    
+  - What is the null hypothesis or alternative hypothesis?
+
+    While comparing the metrics between out vehicles and competitors vehicles, the null hypothesis would have a conculsion of no significant differences between our vehicles and theirs.  Ideally, the alternative hypothesis would show that our vehicle outperforms the competition.
+    
+  - What statistical test would you use to test the hypothesis? And why?
+
+    Multiple linear regression tests could be run the test this hypothesis.  This test would give us different facets of information when comparing our vehicles to others.
+    
+  - What data is needed to run the statistical test?
+
+    Data needed to run these tests would be sets of information of comeptitions' vehicles (MPG, maitenance costs, overall costs) as well as information on our vehicles in the same categories. 
+
   
    
    
